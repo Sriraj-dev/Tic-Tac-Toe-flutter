@@ -1,0 +1,4 @@
+#Sun Jun 13 15:40:08 IST 2021
+base.0=/home/sriraj/Mywork/Myapps-Vscode/Tic-Tac-Toe/tic_tac_toe/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
